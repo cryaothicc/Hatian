@@ -1,6 +1,8 @@
 # Hatian
 
-Split group expenses and see who owes whom. [Try Hatian](https://hatian-eta.vercel.app/).
+Split group expenses and see who owes whom.
+
+[Open Hatian online](https://hatian-eta.vercel.app/)
 
 ## Split a bill
 
